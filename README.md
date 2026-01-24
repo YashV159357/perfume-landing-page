@@ -8,7 +8,7 @@ https://yashv159357.github.io/perfume-landing-page/
 
 ---
 
-## 🎯 Project Objective (Interview / Company Submission)
+## 🎯 Project Objective 
 
 The objective of this project is to evaluate real-world front-end development skills, including:
 
