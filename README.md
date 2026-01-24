@@ -51,12 +51,12 @@ The objective of this project is to evaluate real-world front-end development sk
 The following screenshots are taken from the **deployed live version** of the project and reflect actual UI behavior.
 
 ### 🔹 Hero Section
-![Hero Section](ss1.png)
+<img width="1872" height="857" alt="Image" src="https://github.com/user-attachments/assets/c945a0c1-30d2-4aec-ae94-7d91feb73fb7" />
 
 ### 🔹 Product & Subscription Section
-![Product Section](ss2.png)
+<img width="1862" height="857" alt="Image" src="https://github.com/user-attachments/assets/976b5414-cec2-448e-8036-7c2b4479f35d" />
 
 ### 🔹 Stats & Brand Comparison Section
-![Comparison Section](ss3.png)
+<img width="1867" height="860" alt="Image" src="https://github.com/user-attachments/assets/9a49520f-f300-4871-91bf-0b0f3093feda" />
 
 ---
